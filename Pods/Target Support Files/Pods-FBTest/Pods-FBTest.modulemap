@@ -1,0 +1,6 @@
+module Pods_FBTest {
+  umbrella header "Pods-FBTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module TPPDF {
+  umbrella header "TPPDF-umbrella.h"
+
+  export *
+  module * { export * }
+}
